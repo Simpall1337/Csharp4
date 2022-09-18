@@ -1,0 +1,16 @@
+C:\Users\sandu\source\repos\Four\Four\bin\Debug\net5.0\Four.exe
+C:\Users\sandu\source\repos\Four\Four\bin\Debug\net5.0\Four.deps.json
+C:\Users\sandu\source\repos\Four\Four\bin\Debug\net5.0\Four.runtimeconfig.json
+C:\Users\sandu\source\repos\Four\Four\bin\Debug\net5.0\Four.runtimeconfig.dev.json
+C:\Users\sandu\source\repos\Four\Four\bin\Debug\net5.0\Four.dll
+C:\Users\sandu\source\repos\Four\Four\bin\Debug\net5.0\Four.pdb
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.csproj.AssemblyReference.cache
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.AssemblyInfoInputs.cache
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.AssemblyInfo.cs
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.dll
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\refint\Four.dll
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.pdb
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\Four.genruntimeconfig.cache
+C:\Users\sandu\source\repos\Four\Four\obj\Debug\net5.0\ref\Four.dll
